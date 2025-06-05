@@ -1,0 +1,16 @@
+{
+  "botId": "13d86d3e-e46a-48c5-927d-35cde650ab76",
+  "configuration": {
+    "website": {},
+    "email": {},
+    "phone": {},
+    "termsOfService": {},
+    "privacyPolicy": {},
+    "color": "#5eb1ef",
+    "variant": "soft",
+    "themeMode": "light",
+    "fontFamily": "inter",
+    "radius": 1
+  },
+  "clientId": "00a23d47-0456-48bf-bd1e-37d41adfcb44"
+}
